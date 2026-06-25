@@ -1,4 +1,6 @@
 # Big Data Analytics Pipeline
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 PySpark-based big data processing pipeline featuring ETL workflows, data transformation, aggregation, and scalable analytics for large datasets.
 
