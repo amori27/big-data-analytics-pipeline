@@ -21,7 +21,7 @@ Production-ready big data analytics pipeline using PySpark for distributed data 
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/big-data-analytics-pipeline.git
+git clone https://github.com/amori27/big-data-analytics-pipeline.git
 cd big-data-analytics-pipeline
 pip install -r requirements.txt
 ```
